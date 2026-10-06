@@ -15,4 +15,4 @@ An automated, self-recovering 16x16 quarry mining script written for standard an
 Run the following command directly on your CC: Tweaked Turtle terminal:
 
 ```bash
-wget [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/quarry.lua quarry.lua
+wget https://raw.githubusercontent.com/auronrenney-design/Computercraft-Quarry/main/quarry.lua quarry.lua
